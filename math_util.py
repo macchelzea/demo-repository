@@ -13,12 +13,4 @@ def multiply(x, y):
     return x * y
 
 
-def divide(x, y):
-    """Divides two numbers and returns the result.
 
-    Raises:
-        ZeroDivisionError: If the second number (y) is zero.
-    """
-    if y == 0:
-        raise ZeroDivisionError("Division by zero is not allowed.")
-    return x / y
