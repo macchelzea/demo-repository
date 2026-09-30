@@ -2,3 +2,4 @@ Just a dummy file
 Another line added
 Adding a third line. 
 And a fourth line to the dummy sample.txt file.
+Adding another line to demo compare-and-pr demostration
